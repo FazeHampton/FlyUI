@@ -1,0 +1,9 @@
+name: FlyUI
+main: FlyUI\Main
+author: FazeHampton
+api: [3.0.0]
+version: 1.0.0
+commands:
+  flyui:
+    usage: /flyui
+    description: Opens The FlyUI By FazeHampton
