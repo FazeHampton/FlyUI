@@ -2,7 +2,7 @@ name: FlyUI
 main: FlyUI\FlyUI
 author: FazeHampton
 api: [3.0.0]
-version: 1.0.0
+version: 2.0.0
 commands:
   flyui:
     usage: /flyui
