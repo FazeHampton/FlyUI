@@ -8,6 +8,7 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\event\Listener;
 use pocketmine\event\server\ServerCommandEvent;
+use pocketmine\entity\EntityDamageEvent;
 class FlyUI extends PluginBase implements Listener{
     public function onEnable(): void{
         $this->getServer()->getPluginManager()->registerEvents(($this), $this);
